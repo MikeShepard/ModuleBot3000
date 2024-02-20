@@ -1,0 +1,1 @@
+$script:TemplatePath="$psscriptroot\Template"
